@@ -29,7 +29,6 @@ Use the **arrow keys** to move Pac‑Man. Press **SPACE** on the Game Over scree
 
 ## Team Members
 - **Abrar Siham** – core development, game logic, UI, and repository management.
-- **Isha Bishan** – testing, documentation, and additional polish.
+- **Isha Bishankhe** – testing, documentation, and additional polish.
 
 ---
-*Generated on 2026‑04‑29.*
